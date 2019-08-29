@@ -3,3 +3,6 @@ add a line under branch feature!
 
 add a line to test merge
 
+
+add a line to test merge with --ff
+
